@@ -4,7 +4,9 @@ function main(){
 
     //definisi titik-titik segitiga
     /**
-     * A(-0.5, 0.5); B(-0.5, -0.5), C(0.5, -0.5)
+     * A(-0.5, 0.5)
+     * B(-0.5, -0.5) 
+     * C(0.5, -0.5)
      */
 
     var vertices = [
